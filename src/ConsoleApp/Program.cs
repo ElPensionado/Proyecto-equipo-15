@@ -1,0 +1,10 @@
+﻿double lado = 4;
+double n = 6;
+double a = 3.4;
+double h = 2;
+double perimetro = Application.Hexagono.Perimetro(lado, n);
+double area = Application.Hexagono.Area(lado, n, a);
+double volumen = Application.PoligonoRegular.Volumen(area, h);
+Console.WriteLine($"El perímetro de la base de un Poligono Regular de {lado}cm con {n} lados es {perimetro}cm");
+Console.WriteLine($"El área de la base de un Poligono Regular de {lado}cm con {n} lados y unapotema de {a} es {area}cm2");
+Console.WriteLine($"El volumen un Poligono Regular con un área de la base de {area}cm2 y {h}cm de altura es {volumen}cm3");

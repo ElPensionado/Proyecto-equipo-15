@@ -1,0 +1,36 @@
+C:/Users/Alumno49/proyectoF/src/ConsoleApp/bin/Debug/net8.0/ConsoleApp.exe
+C:/Users/Alumno49/proyectoF/src/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+C:/Users/Alumno49/proyectoF/src/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+C:/Users/Alumno49/proyectoF/src/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+C:/Users/Alumno49/proyectoF/src/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+C:/Users/Alumno49/proyectoF/src/ConsoleApp/bin/Debug/net8.0/Application.dll
+C:/Users/Alumno49/proyectoF/src/ConsoleApp/bin/Debug/net8.0/Application.pdb
+C:/Users/Alumno49/proyectoF/src/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.AssemblyReference.cache
+C:/Users/Alumno49/proyectoF/src/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Alumno49/proyectoF/src/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+C:/Users/Alumno49/proyectoF/src/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+C:/Users/Alumno49/proyectoF/src/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+C:/Users/Alumno49/proyectoF/src/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.Up2Date
+C:/Users/Alumno49/proyectoF/src/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+C:/Users/Alumno49/proyectoF/src/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+C:/Users/Alumno49/proyectoF/src/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+C:/Users/Alumno49/proyectoF/src/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+C:/Users/Alumno49/proyectoF/src/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/ConsoleApp/bin/Debug/net8.0/Application.dll
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/ConsoleApp/bin/Debug/net8.0/Application.pdb
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.AssemblyReference.cache
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.Up2Date
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll

@@ -1,0 +1,73 @@
+C:/Users/Alumno49/proyectoF/src/WebApp/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Alumno49/proyectoF/src/WebApp/bin/Debug/net8.0/appsettings.json
+C:/Users/Alumno49/proyectoF/src/WebApp/bin/Debug/net8.0/WebApp.exe
+C:/Users/Alumno49/proyectoF/src/WebApp/bin/Debug/net8.0/WebApp.deps.json
+C:/Users/Alumno49/proyectoF/src/WebApp/bin/Debug/net8.0/WebApp.runtimeconfig.json
+C:/Users/Alumno49/proyectoF/src/WebApp/bin/Debug/net8.0/WebApp.dll
+C:/Users/Alumno49/proyectoF/src/WebApp/bin/Debug/net8.0/WebApp.pdb
+C:/Users/Alumno49/proyectoF/src/WebApp/bin/Debug/net8.0/Application.dll
+C:/Users/Alumno49/proyectoF/src/WebApp/bin/Debug/net8.0/Application.pdb
+C:/Users/Alumno49/proyectoF/src/WebApp/obj/Debug/net8.0/WebApp.csproj.AssemblyReference.cache
+C:/Users/Alumno49/proyectoF/src/WebApp/obj/Debug/net8.0/WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Alumno49/proyectoF/src/WebApp/obj/Debug/net8.0/WebApp.AssemblyInfoInputs.cache
+C:/Users/Alumno49/proyectoF/src/WebApp/obj/Debug/net8.0/WebApp.AssemblyInfo.cs
+C:/Users/Alumno49/proyectoF/src/WebApp/obj/Debug/net8.0/WebApp.csproj.CoreCompileInputs.cache
+C:/Users/Alumno49/proyectoF/src/WebApp/obj/Debug/net8.0/WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Alumno49/proyectoF/src/WebApp/obj/Debug/net8.0/WebApp.RazorAssemblyInfo.cache
+C:/Users/Alumno49/proyectoF/src/WebApp/obj/Debug/net8.0/WebApp.RazorAssemblyInfo.cs
+C:/Users/Alumno49/proyectoF/src/WebApp/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Alumno49/proyectoF/src/WebApp/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Alumno49/proyectoF/src/WebApp/obj/Debug/net8.0/staticwebassets/msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Alumno49/proyectoF/src/WebApp/obj/Debug/net8.0/staticwebassets/msbuild.build.WebApp.props
+C:/Users/Alumno49/proyectoF/src/WebApp/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebApp.props
+C:/Users/Alumno49/proyectoF/src/WebApp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebApp.props
+C:/Users/Alumno49/proyectoF/src/WebApp/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/Alumno49/proyectoF/src/WebApp/obj/Debug/net8.0/scopedcss/bundle/WebApp.styles.css
+C:/Users/Alumno49/proyectoF/src/WebApp/obj/Debug/net8.0/WebApp.csproj.Up2Date
+C:/Users/Alumno49/proyectoF/src/WebApp/obj/Debug/net8.0/WebApp.dll
+C:/Users/Alumno49/proyectoF/src/WebApp/obj/Debug/net8.0/refint/WebApp.dll
+C:/Users/Alumno49/proyectoF/src/WebApp/obj/Debug/net8.0/WebApp.pdb
+C:/Users/Alumno49/proyectoF/src/WebApp/obj/Debug/net8.0/WebApp.genruntimeconfig.cache
+C:/Users/Alumno49/proyectoF/src/WebApp/obj/Debug/net8.0/ref/WebApp.dll
+D:/ISE15/src/WebApp/obj/Debug/net8.0/WebApp.csproj.AssemblyReference.cache
+D:/ISE15/src/WebApp/obj/Debug/net8.0/WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:/ISE15/src/WebApp/obj/Debug/net8.0/WebApp.AssemblyInfoInputs.cache
+D:/ISE15/src/WebApp/obj/Debug/net8.0/WebApp.AssemblyInfo.cs
+D:/ISE15/src/WebApp/obj/Debug/net8.0/WebApp.csproj.CoreCompileInputs.cache
+D:/ISE15/src/WebApp/obj/Debug/net8.0/WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:/ISE15/src/WebApp/obj/Debug/net8.0/WebApp.RazorAssemblyInfo.cache
+D:/ISE15/src/WebApp/obj/Debug/net8.0/WebApp.RazorAssemblyInfo.cs
+D:/ISE15/src/WebApp/obj/Debug/net8.0/WebApp.dll
+D:/ISE15/src/WebApp/obj/Debug/net8.0/refint/WebApp.dll
+D:/ISE15/src/WebApp/obj/Debug/net8.0/WebApp.pdb
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/WebApp/bin/Debug/net8.0/appsettings.Development.json
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/WebApp/bin/Debug/net8.0/appsettings.json
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/WebApp/bin/Debug/net8.0/WebApp
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/WebApp/bin/Debug/net8.0/WebApp.deps.json
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/WebApp/bin/Debug/net8.0/WebApp.runtimeconfig.json
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/WebApp/bin/Debug/net8.0/WebApp.dll
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/WebApp/bin/Debug/net8.0/WebApp.pdb
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/WebApp/bin/Debug/net8.0/Application.dll
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/WebApp/bin/Debug/net8.0/Application.pdb
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/WebApp/obj/Debug/net8.0/WebApp.csproj.AssemblyReference.cache
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/WebApp/obj/Debug/net8.0/WebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/WebApp/obj/Debug/net8.0/WebApp.AssemblyInfoInputs.cache
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/WebApp/obj/Debug/net8.0/WebApp.AssemblyInfo.cs
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/WebApp/obj/Debug/net8.0/WebApp.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/WebApp/obj/Debug/net8.0/WebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/WebApp/obj/Debug/net8.0/WebApp.RazorAssemblyInfo.cache
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/WebApp/obj/Debug/net8.0/WebApp.RazorAssemblyInfo.cs
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/WebApp/obj/Debug/net8.0/staticwebassets.build.json
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/WebApp/obj/Debug/net8.0/staticwebassets.development.json
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/WebApp/obj/Debug/net8.0/staticwebassets/msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/WebApp/obj/Debug/net8.0/staticwebassets/msbuild.build.WebApp.props
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/WebApp/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebApp.props
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/WebApp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebApp.props
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/WebApp/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/WebApp/obj/Debug/net8.0/scopedcss/bundle/WebApp.styles.css
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/WebApp/obj/Debug/net8.0/WebApp.csproj.Up2Date
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/WebApp/obj/Debug/net8.0/WebApp.dll
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/WebApp/obj/Debug/net8.0/refint/WebApp.dll
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/WebApp/obj/Debug/net8.0/WebApp.pdb
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/WebApp/obj/Debug/net8.0/WebApp.genruntimeconfig.cache
+/Users/admin/Documents/Ingenieria de soft/ISE15/src/WebApp/obj/Debug/net8.0/ref/WebApp.dll
